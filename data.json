@@ -1,0 +1,25 @@
+{
+    "account": [
+        {
+            "selected": true,
+            "stt": "1",
+            "uid": "mail",
+            "cookie": "",
+            "email": "uid",
+            "password": "",
+            "proxy": "",
+            "code": "code",
+            "status": ""
+        }
+    ],
+    "proxy": "yes (Tmproxy.com)",
+    "type_password": 1,
+    "password": "shinsad0907",
+    "thread": 5,
+    "type": "change_pass",
+    "browser": {
+        "type": "chrome",
+        "edge_driver_path": ""
+    },
+    "sleep": 3
+}

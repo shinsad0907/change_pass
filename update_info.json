@@ -1,0 +1,19 @@
+{
+    "version": "1.0.20",
+    "last_update": "2024-06-15",
+    "changelog": [
+        {
+            "title": "🛠️ Cải tiến",
+            "items": [
+                "⚡ Bảo trì fix chức năng quên mật khẩu"
+            ]
+        },
+        {
+            "title": "🎉 Tính năng mới",
+            "items": [
+                "✨ hiện tại chưa có"
+            ]
+        }
+    ],
+    "is_read": true
+}
